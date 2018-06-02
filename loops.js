@@ -30,3 +30,4 @@ function doWhileLoop(array) {
 test = [1,2,3,4,5]
 
 doWhileLoop(test)
+console.log(test)
