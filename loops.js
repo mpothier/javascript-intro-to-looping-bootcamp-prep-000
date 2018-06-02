@@ -25,6 +25,7 @@ function doWhileLoop(array) {
   do {
     array.pop()
   } while (array.length > 0 && maybeTrue())
+  return array
 }
 
 test = [1,2,3,4,5]
