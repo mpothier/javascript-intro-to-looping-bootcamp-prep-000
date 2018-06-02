@@ -20,3 +20,5 @@ function whileLoop(n) {
 function doWhileLoop(array) {
   
 }
+
+whileLoop(5)
